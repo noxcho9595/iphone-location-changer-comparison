@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below. Attribution: Roam - roamlocation.com"
+type: dataset
+title: "iPhone location changer comparison dataset"
+abstract: >-
+  Side-by-side facts about iPhone location changer tools (computer requirement,
+  jailbreak, supported iOS, mobile data, routes, joystick, GPX, pricing and
+  refund policy), each taken from the vendor's public pages with a source URL
+  and check date. Made by Roam (roamlocation.com), one of the tools listed.
+authors:
+  - name: "Roam - roamlocation.com"
+    website: "https://roamlocation.com/"
+version: "1.0.0"
+date-released: "2026-11-16"
+license: CC-BY-4.0
+url: "https://roamlocation.com/guides/best-iphone-location-changer"
+keywords:
+  - iphone location changer
+  - ios location spoofer
+  - gps location
+  - comparison
+  - dataset

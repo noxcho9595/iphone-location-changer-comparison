@@ -1,0 +1,155 @@
+tool_id,field,value,source_urls,checked_date
+roam,needs_computer,no,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,needs_jailbreak,no,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,runs_on_iphone_itself,yes,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,min_ios,27,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,supported_ios,iOS 27 or newer; Developer Mode must be on,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,android_support,no,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,works_on_mobile_data,yes,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,route_support,yes,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,joystick_support,yes,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,gpx_import,no,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,pricing_model,"fixed-length pass (1, 7, 30 or 365 days), one iPhone per pass",https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,cheapest_paid_option,"4.99 (day pass); week 9.99, month 14.99, year 49.99",https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,price_currency,EUR,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+roam,refund_policy_summary,Money back only if Roam doesn't work on your iPhone and you ask within 7 days of paying.,https://roamlocation.com/ ; https://roamlocation.com/terms ; https://roamlocation.com/guides/best-iphone-location-changer,2026-11-16
+geovo,needs_computer,yes,https://geovo.app/,2026-11-16
+geovo,needs_jailbreak,no,https://geovo.app/,2026-11-16
+geovo,runs_on_iphone_itself,partial,https://geovo.app/,2026-11-16
+geovo,min_ios,17.4,https://geovo.app/,2026-11-16
+geovo,supported_ios,"iOS 17.4 or later (iPhone XS/XR and newer), iPad; macOS 13+, Windows 10/11",https://geovo.app/,2026-11-16
+geovo,android_support,no,https://geovo.app/,2026-11-16
+geovo,works_on_mobile_data,yes,https://geovo.app/,2026-11-16
+geovo,route_support,yes,https://geovo.app/,2026-11-16
+geovo,joystick_support,yes,https://geovo.app/,2026-11-16
+geovo,gpx_import,yes,https://geovo.app/,2026-11-16
+geovo,pricing_model,subscription or lifetime (Pro),https://geovo.app/,2026-11-16
+geovo,cheapest_paid_option,"6.99 per week (Pro); also 12.99/month, 29.99/3 months, 79.99/year, 129.99 lifetime",https://geovo.app/,2026-11-16
+geovo,price_currency,USD,https://geovo.app/,2026-11-16
+geovo,refund_policy_summary,"Page states: refund if it can't work on your iPhone (within 14 days, with support); also: refunds if you haven't used Geovo since buying. See their Refund Policy.",https://geovo.app/,2026-11-16
+gfaker,needs_computer,no,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,needs_jailbreak,no,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,runs_on_iphone_itself,no (external hardware device),https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,min_ios,9,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,supported_ios,Homepage: iOS 9 to iOS 27. GF II product page: iOS 9 through iOS 26.6.2. The pages disagree.,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,android_support,unknown,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,works_on_mobile_data,unknown,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,route_support,yes,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,joystick_support,unknown,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,gpx_import,unknown,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,pricing_model,one-time hardware purchase,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,cheapest_paid_option,469.00 (GF II page range 469.00-479.00; no separate price per model in page text),https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,price_currency,USD,https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+gfaker,refund_policy_summary,"Seven-day no-reason return, per their FAQ.",https://www.gfaker.com/ ; https://www.gfaker.com/product/gfaker-gf/ ; https://roamlocation.com/guides/roam-vs-gfaker,2026-11-16
+mirage,needs_computer,no on iOS 27; one-time computer step on iOS 18-26,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,needs_jailbreak,no,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,runs_on_iphone_itself,yes,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,min_ios,18,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,supported_ios,"iOS 18 to 27, tested on iOS 27",https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,android_support,unknown,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,works_on_mobile_data,yes,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,route_support,yes,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,joystick_support,yes,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,gpx_import,yes,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,pricing_model,no paid plan listed; README says it is free and optional sponsorship unlocks nothing,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,cheapest_paid_option,none listed,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,price_currency,,https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+mirage,refund_policy_summary,not applicable (no paid plan listed),https://github.com/xXWapixelXx/Mirage-updates,2026-11-16
+locus,needs_computer,no on iOS 27; pairing file from a computer once on iOS 18-26,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,needs_jailbreak,unknown,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,runs_on_iphone_itself,yes,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,min_ios,18,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,supported_ios,iOS 27 with on-device pairing; iOS 18-26 with an RPPairing file,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,android_support,unknown,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,works_on_mobile_data,"yes (start on Wi-Fi first, then the session can continue on cellular)",https://github.com/ChrisMack32/Locus,2026-11-16
+locus,route_support,yes,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,joystick_support,yes,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,gpx_import,yes,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,pricing_model,no paid plan listed; README says free and open source (MIT),https://github.com/ChrisMack32/Locus,2026-11-16
+locus,cheapest_paid_option,none listed,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,price_currency,,https://github.com/ChrisMack32/Locus,2026-11-16
+locus,refund_policy_summary,not applicable (no paid plan listed),https://github.com/ChrisMack32/Locus,2026-11-16
+roam-control,needs_computer,unknown,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,needs_jailbreak,unknown,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,runs_on_iphone_itself,yes,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,min_ios,27,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,supported_ios,iOS 27+,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,android_support,unknown,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,works_on_mobile_data,yes,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,route_support,yes,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,joystick_support,yes,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,gpx_import,yes,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,pricing_model,unknown,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,cheapest_paid_option,unknown,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,price_currency,,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+roam-control,refund_policy_summary,unknown,https://github.com/seanhowarthdev/Roam-Control ; https://roamlocation.com/guides/roam-vs-mirage-locus,2026-11-16
+tenorshare-ianygo,needs_computer,partial: steps start on the computer; page says no computer required after installation,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,needs_jailbreak,no,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,runs_on_iphone_itself,"yes, after a computer-assisted install",https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,min_ios,14,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,supported_ios,"Product page: iOS 14 - iOS 27 or later. 1-device buy plans: iOS 14 to iOS 26 or later, excluding iOS 17.0 and 17.1.",https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,android_support,yes,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,works_on_mobile_data,unknown,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,route_support,yes (up to 99 points),https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,joystick_support,yes,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,gpx_import,yes,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,pricing_model,subscription or lifetime,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,cheapest_paid_option,"14.99 per month (iOS app, 1 device, tax excl.)",https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,price_currency,USD,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+tenorshare-ianygo,refund_policy_summary,30-day money-back guarantee if there is no solution after they analyse the problem; see their refund policy.,https://www.tenorshare.com/products/ianygo-change-gps-location-iphone.html ; https://www.tenorshare.com/purchase/buy-ianygo-ios-app.html,2026-11-16
+imyfone-anyto,needs_computer,partial: iPhone steps get the app through the desktop program; page also says it can be used without a PC,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,needs_jailbreak,no,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,runs_on_iphone_itself,yes (iOS app),https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,min_ios,5,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,supported_ios,"iOS 5 and up (iOS 27 included); Windows 7-11, macOS 10.9-14",https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,android_support,yes,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,works_on_mobile_data,unknown,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,route_support,yes,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,joystick_support,yes,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,gpx_import,yes,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,pricing_model,subscription,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,cheapest_paid_option,from 14.99 (product page); purchase-page plan amounts not in page text,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,price_currency,USD,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+imyfone-anyto,refund_policy_summary,Cancel anytime; 30-day money back guarantee if they cannot help solve the technical problem.,https://www.imyfone.com/location-changer/ ; https://www.imyfone.com/location-changer/purchase/,2026-11-16
+itoolab-anygo,needs_computer,yes for desktop steps; an iOS app is sold separately,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,needs_jailbreak,no,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,runs_on_iphone_itself,yes (iOS app),https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,min_ios,7.0,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,supported_ios,iOS 7.0 - iOS 27,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,android_support,yes,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,works_on_mobile_data,unknown,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,route_support,yes,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,joystick_support,yes,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,gpx_import,yes,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,pricing_model,subscription or lifetime,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,cheapest_paid_option,"9.95 per month (desktop, shown beside 19.95); iOS app 19.95 per month",https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,price_currency,USD,https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+itoolab-anygo,refund_policy_summary,"30-day money-back guarantee; whole-order refunds within the guarantee period, no partial OS refunds.",https://itoolab.com/gps-location-changer/ ; https://itoolab.com/buy/anygo-for-ios?lang=en,2026-11-16
+drfone-virtual-location,needs_computer,yes,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,needs_jailbreak,no,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,runs_on_iphone_itself,no (desktop connection described for iPhone),https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,min_ios,5.0,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,supported_ios,"Product page: iOS 5.0 and later, compatible with iOS 27. Buy-page plans: iOS 26.",https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,android_support,yes,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,works_on_mobile_data,unknown,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,route_support,yes,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,joystick_support,yes,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,gpx_import,yes,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,pricing_model,subscription or perpetual,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,cheapest_paid_option,"4.97 per month (monthly plan, shown beside 14.95 under a 66% off banner)",https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,price_currency,USD,https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+drfone-virtual-location,refund_policy_summary,"Up to a 7-day money-back guarantee, under the circumstances they accept.",https://drfone.wondershare.com/virtual-location-changer.html ; https://drfone.wondershare.com/buy/drfone-ios-virtual-location.html,2026-11-16
+3utools,needs_computer,yes,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,needs_jailbreak,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,runs_on_iphone_itself,no,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,min_ios,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,supported_ios,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,android_support,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,works_on_mobile_data,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,route_support,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,joystick_support,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,gpx_import,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,pricing_model,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,cheapest_paid_option,not listed on the pages checked,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,price_currency,,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
+3utools,refund_policy_summary,unknown,https://www.3u.com/ ; https://www.3u.com/tutorial/articles/12076/how-to-change-location-by-virtual-location-on-3utools,2026-11-16
